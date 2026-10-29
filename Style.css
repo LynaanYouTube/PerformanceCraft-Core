@@ -177,7 +177,8 @@ article {
 
 article:hover {
   transform: translateY(-5px);
-  border-color: var(--pink);
+  border-color: #00e5ff;
+  box-shadow: 0 0 18px rgba(0, 229, 255, 0.18);
 }
 
 article p {
