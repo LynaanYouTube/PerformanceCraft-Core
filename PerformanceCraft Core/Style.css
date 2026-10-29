@@ -1,4 +1,10 @@
-
+/* PerformanceCraft Core — Hero Heading Upgrade */
+#home .hero-content h1 {
+  background: linear-gradient(90deg, #ffffff, #00e5ff, #b388ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 /* =================================
    PerformanceCraft Core
    Main website styling
