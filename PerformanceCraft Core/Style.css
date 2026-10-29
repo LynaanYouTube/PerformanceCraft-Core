@@ -502,3 +502,19 @@ body {
   background: linear-gradient(135deg, #173d68, #432078);
   background-attachment: fixed;
 }
+/* PerformanceCraft Core — Visual Polish */
+button,
+a {
+    transition: all 0.25s ease;
+}
+
+button:hover,
+a:hover {
+    filter: brightness(1.15);
+}
+
+button:focus-visible,
+a:focus-visible {
+    outline: 2px solid #00e5ff;
+    outline-offset: 4px;
+}
