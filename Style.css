@@ -525,3 +525,12 @@ a:focus-visible {
     outline: 2px solid #00e5ff;
     outline-offset: 4px;
 }
+
+/* PerformanceCraft Core — Hero Image Polish */
+#home .hero-image {
+  border: 1px solid rgba(0, 229, 255, 0.35);
+  border-radius: 18px;
+  box-shadow:
+    0 8px 28px rgba(0, 0, 0, 0.25),
+    0 0 18px rgba(0, 229, 255, 0.12);
+}
